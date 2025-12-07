@@ -24,5 +24,6 @@ This project analyzes employee attrition using Power BI and HR dataset.
 - Data Modeling
 
 ## Dashboard Preview
-(Replace this text with your screenshot once uploaded)
+<img width="1334" height="745" alt="image" src="https://github.com/user-attachments/assets/e59d44f3-7f39-4e57-bc82-a5859e3ad373" />
+
 
